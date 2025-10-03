@@ -1,4 +1,4 @@
-# Welcome to me!
+# Welcome to my website!
 
 * Hello! This website is something i made in order to introduce people to video games or even introduce new gamers to different video games. Ive played since i was very young and want to encourage others to give these games a shot. Not just the popular ones but also the less known ones. Hope you enjoy!
 
