@@ -13,12 +13,17 @@
 #### I want to better my skills at making webpages and practice html to see what I can make. I know the basics, but maybe I can add more advanced things like different backgrounds and trying different fonts.
 ***
 ### Exclusions:
+* No games that aren't from Playstation or XBOX
+* Nothing past 2018 
+* Dont make it look too much like a blog. Has to be Factual.
 
-#### Any games that aren't from the PlayStation or Xbox won't be included. Nothing past 2018 since that's when i graduated and barely had any time to play.
 ***
 ### Priorities:
+* Finding games 
+* Organziing list based on albhabetical order
+* making website easily navigatable for audience
+* Able to view from phone
 
-#### Finding the games, focusing on coding the page as well as how the interface will look and how i will organize the games. Potentially ordering them by date released or name.
 ***
 ### Acceptance Criteria:
 
