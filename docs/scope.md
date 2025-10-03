@@ -10,7 +10,7 @@
 ***
 ### Desired Results:
 
-#### I want to better my skills at making webpages and practice html to see what I can make. I know the basics, but maybe I can add more advanced things like different backgrounds and trying different fonts.
+#### I want to make a page that showcases my personality and love for games. it'll be a vault containing a list of games giving the audience a peak of what the game is about with no spoilers. That way they will want to see how the story plays out!
 ***
 ### Exclusions:
 * No games that aren't from Playstation or XBOX
@@ -20,12 +20,13 @@
 ***
 ### Priorities:
 * Finding games 
-* Organziing list based on albhabetical order
+* Organzing list based on albhabetical order
 * making website easily navigatable for audience
 * Able to view from phone
 
 ***
 ### Acceptance Criteria:
-
-#### I have to have a good list of games I played pretty often. More than likely it'll be games from the early 2000's. It can be any games from ps1 to ps4 and the original Xbox to Xbox360 since I didn't play too much on the newer Xbox consoles.
+* Favorite games
+* Early 2000 games
+* PS2 TO PS4 AND XBOX360 games
 
